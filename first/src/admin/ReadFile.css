@@ -1,0 +1,17 @@
+#ReadFile{
+    background-color: rgb(219, 240, 243);
+    margin-left: 20%;
+    height: 200px;
+    width: 50%;
+    text-align: center;
+    margin-top: 20px;
+    
+
+}
+#Editeform{
+margin-top: 20px;
+}
+textarea{
+    width: 80%;
+    height: 200px;
+}

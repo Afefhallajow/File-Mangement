@@ -1,0 +1,39 @@
+#log{
+    margin-top: 40px;
+   margin-left: 20px;
+    display: inline-bloc;
+text-decoration: none;
+color: black;
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 400;
+}
+#Navbar{
+    float: right;
+margin-top: 10px;
+margin-right: 20px;
+}
+nav{
+    width: 100%;
+    height: 60px;
+background-color: rgb(58, 212, 200);
+border: none;
+border-radius: 4px;
+display: block;
+}
+#log-active{
+background-color: black;
+    color: thistle;
+}
+#main_process{
+    display: block;
+    margin-left: 400px;
+width: 400px;
+height: 50px;
+text-align: center;
+margin-top: -14px;
+z-index: 9999;
+}
+#login{
+    
+}

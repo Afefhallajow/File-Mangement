@@ -1,0 +1,11 @@
+#myhome{
+    background-color: rgb(239, 247, 248);
+background-image: url(./1.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+margin-left: 0;
+    height: 600px;
+    width: 1360px;
+    text-align: center;
+    
+}
